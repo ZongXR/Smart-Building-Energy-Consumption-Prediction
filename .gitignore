@@ -132,3 +132,4 @@ dmypy.json
 **.iml
 
 notebooks/.ipynb_checkpoints
+notebooks/catboost_info
