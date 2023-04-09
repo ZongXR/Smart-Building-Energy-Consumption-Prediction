@@ -133,3 +133,6 @@ dmypy.json
 
 notebooks/.ipynb_checkpoints
 notebooks/catboost_info
+
+logs/*
+!logs/.gitkeep
