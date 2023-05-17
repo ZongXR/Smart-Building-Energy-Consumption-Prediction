@@ -2,14 +2,6 @@
 <a href="https://aistudio.baidu.com/aistudio/competition/detail/856">比赛地址</a>&nbsp;&nbsp;
 <a href="https://bang.schneider-electric.cn/kms/pc/detail/question/1633719451474071554">官方baseline</a>
 <img alt="标题" src="https://fanyiapp.cdn.bcebos.com/cms/image/b0125dafa60010361ae57c00a592a2fd.png" />
-<h2>【项目使用方法】</h2>
-使用方法:<br />
-<ol>
-<li>安装Python版本为3.7.3</li>
-<li>cd到项目路径，安装项目依赖<br /><code>pip install -r ./requirements.txt</code></li>
-<li>cd到notebooks目录，启动<code>jupyter notebook</code>。该目录下三个文件<code>main-A.ipynb</code>、<code>main-B.ipynb</code>、<code>main-C.ipynb</code>分别为A榜、B榜、C榜的源代码，打开并运行之。</li>
-<li>data目录下<code>test.zip</code>为提交的文件。</li>
-</ol>
 <h2>【赛题背景】</h2>
 <p>
 能源是制约公司、行业乃至整个社会可持续、健康发展的重要因素。解决能源问题是提高能源利用效率的关键方法之一。人工智能技术（AI）作为挖掘数字价值的重要技术，正为提高能源利用效率注入全新动能，例如对于能耗预测的走势判断设备的异常，加大能源结构管理和减少异常消耗能源。本次大赛旨在利用AI技术，通过对能耗进行预测，以提高能源利用效率。然而，在行业内的数据存在各种形式的问题，这给预测带来了巨大的挑战。如何将前沿技术与行业热点话题深度结合，加速以数强实、数实融合是本次大赛同时要解决的问题。携AI技术积淀与行业积累，施耐德电气带来“AI大施杯”算法大赛。面向个人开发者、高等院校、科研机构、企业单位等招募选手，共同壮大数智赋能的创新生态圈，推动业界效率的提升与可持续目标的实现。
@@ -135,6 +127,14 @@
 <li>参赛选手需确保注册时提交信息准确有效，所有的比赛资格及奖金支付均以提交的信息为准。</li>
 <li>队伍名的设定不得违反中国法律法规或社会公序良俗，且参赛队伍命名中不可出现“施耐德电气”，“Schneider Electric”，“AVEVA”，“百度官方”，“飞桨官方”，“paddle官方”，“官方baseline”等字样。若命名违规的队伍在收到比赛主办方警告后仍未修改队伍名称，比赛主办方有权解散该队伍。</li>
 <li>参赛队伍可在参赛期间随时上传测试集的预测结果，初赛阶段每天最多评测5次，决赛阶段每天最多评测3次，比赛管理系统会实时更新各队伍的当前最高成绩与当前最新榜单排名情况。</li>
+</ol>
+<h2>【项目使用方法】</h2>
+使用方法:<br />
+<ol>
+<li>安装Python版本为3.7.3</li>
+<li>cd到项目路径，安装项目依赖<br /><code>pip install -r ./requirements.txt</code></li>
+<li>cd到notebooks目录，启动<code>jupyter notebook</code>。该目录下三个文件<code>main-A.ipynb</code>、<code>main-B.ipynb</code>、<code>main-C.ipynb</code>分别为A榜、B榜、C榜的源代码，打开并运行之。</li>
+<li>data目录下<code>test.zip</code>为提交的文件。</li>
 </ol>
 <h2>【赛事交流】</h2>
 <p>报名成功并关注施家邦-数字生态邦后，我们将为您推送答疑入口：<br>
